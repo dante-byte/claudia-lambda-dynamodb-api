@@ -1,0 +1,15 @@
+{
+  "Version": "2019.11.21",
+  "Statement": [
+    {
+      "Action": [
+        "dynamodb:DeleteItem",
+        "dynamodb:GetItem",
+        "dynamodb:PutItem",
+        "dynamodb:Scan"
+      ],
+      "Effect": "Allow",
+      "Resource": "arn:aws:dynamodb:us-east-1:301421460811:table/inventory-demo"
+    }
+  ]
+}

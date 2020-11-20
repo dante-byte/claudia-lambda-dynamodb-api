@@ -1,0 +1,11 @@
+{
+  "lambda": {
+    "role": "auto-inventory-executor",
+    "name": "auto-inventory",
+    "region": "us-east-1"
+  },
+  "api": {
+    "id": "y0x6rsg5sk",
+    "module": "index"
+  }
+}

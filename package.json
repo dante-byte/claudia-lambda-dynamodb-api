@@ -1,0 +1,18 @@
+{
+  "name": "auto-inventory",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lambda.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.791.0",
+    "claudia-api-builder": "^4.1.2",
+    "superb": "^4.0.0",
+    "uuid": "^8.3.1",
+    "uuidv4": "^6.2.5"
+  }
+}
